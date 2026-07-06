@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "title": "MSME Government Schemes Metadata - Central (India) and Telangana State",
+    "compiled_date": "2026-06-25",
+    "coverage": "Central Government of India MSME schemes (Ministry of MSME) and Telangana State MSME/industrial schemes",
+    "sourcing_note": "Each scheme record is compiled from official government sources (ministry/scheme portals, PIB releases, nimsme.gov.in) where available, supplemented by verified secondary sources (bank/NBFC scheme pages, professional consultancy summaries citing official guidelines) where official pages lacked numeric detail. All monetary figures and percentages are as found at time of compilation and are subject to periodic government revision - always verify against the official_link before relying on figures for an application.",
+    "disclaimer": "This is NOT an exhaustive list of every MSME scheme in India or Telangana. It covers major, well-documented schemes only. Many additional state-level, sector-specific, and bank-specific schemes exist and are not included here. Verify all details with official sources before use in a production application.",
+    "schema_fields": ["scheme_name", "full_name", "level", "description", "sector", "target_group", "eligibility", "benefits", "objectives", "features", "coverage", "application_process", "procedure", "documents_required", "loan", "subsidy", "guarantee", "guarantee_coverage", "scope", "other_benefits", "business_type", "minimum_age", "official_link", "last_verified"]
+  },
+  "central_schemes": [
+    {
+      "scheme_name": "Credit Guarantee Fund Scheme for Micro and Small Enterprises (CGS-I)",
+      "full_name": "Credit Guarantee Fund Trust for Micro and Small Enterprises",
+      "level": "Central",
+      "description": "A scheme established by the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) to provide credit guarantees for financial assistance extended by eligible lending institutions to Micro and Small Enterprises (MSEs). It covers both fund-based (e.g., term loans, working capital) and non-fund-based (e.g., Bank Guarantee, Letter of credit) credit facilities, primarily without requiring collateral security or third-party guarantees. A hybrid product is also available, allowing guarantee cover on the unsecured portion of credit facilities where partial collateral is provided.",
+      "sector": [
+        "Micro and Small Enterprises",
+        "Manufacturing",
+        "Production of goods",
+        "Services",
+        "Retail Trade",
+        "Wholesale Trade",
+        "Educational Institution",
+        "Training Institution"
+      ],
+      "target_group": [
+        "New Micro and Small Enterprises",
+        "Existing Micro and Small Enterprises",
+        "Eligible borrowers seeking credit facilities from lending institutions"
+      ],
+      "eligibility": {
+        "minimum_age": "",
+        "business_type": "Micro and Small Enterprises (MSEs) as defined by the MSMED Act, 2006. This includes industrial undertakings or business concerns engaged in manufacturing or production of goods, providing services, retail/wholesale trade, and educational/training institutions.",
+        "location": "",
+        "other_conditions": "1. Credit facility must be extended by an eligible lending institution (Commercial Banks, Regional Rural Banks, Scheduled Urban Co-operative Banks, Non-Scheduled Urban Co-operative Banks, State Co-operative Banks, District Central Co-operative Banks, Small Finance Banks, and Microfinance Institutions).\n2. Primarily, credit facilities must be extended without any collateral security and/or third-party guarantees.\n3. A 'Hybrid / Partial Collateral Security' product is available, allowing guarantee cover on the unsecured part of the credit facility (up to ₹10 crore) even if a portion is collateralized.\n4. At the material date (when the annual guarantee fee is paid), the credit facility must be standard and regular (not SMA) as per RBI guidelines.\n5. The business or activity of the borrower for which the credit facility was granted must not have ceased.\n6. The credit facility must not have been wholly or partly utilized for adjustment of any debt deemed bad or doubtful of recovery, without obtaining prior consent from the Trust.\n7. Application for guarantee cover can be submitted anytime during the loan tenure, provided the credit facility was not restructured or remained in SMA2 status in the last 1 year from the date of submission of application."
+      },
+      "benefits": {
+        "loan_amount": "Maximum guarantee coverage limit per borrower is ₹10 crore.\nSpecific limits based on lending institution type:\n- Not exceeding ₹10 crore for Public Sector Banks, Private Sector Banks, Foreign Banks, select Financial Institutions.\n- Not exceeding ₹200 lakh (₹2 crore) for Small Finance Banks (SFBs), Regional Rural Banks, State Financial Institutions, and Scheduled Urban Co-operative Banks (including Non-Scheduled Urban Co-operative Banks, State Co-operative Banks, and District Central Co-operative Banks).\n- Not exceeding ₹50 lakh for Microfinance Institutions.\nFor Hybrid Security product, the unsecured part of the credit facility covered under CGS-I can be up to a maximum of ₹10 crore.",
+        "subsidy": "",
+        "other_benefits": "1. Provides guarantees on credit facilities extended by lending institutions to eligible MSEs, reducing risk for lenders.\n2. Facilitates collateral-free credit flow to Micro and Small Enterprises.\n3. Allows for partial collateral security arrangements, where the unsecured portion of the loan can still be guaranteed.\n4. Covers a range of credit facilities including term loans, working capital, bank guarantees, and letters of credit.\n5. Applicable to both new and existing MSEs."
+      },
+      "objectives": "To strengthen the credit delivery system and facilitate flow of credit to the MSE sector by reassuring lenders that, in the event of default on collateral-free credit, the Trust will cover the loss up to a defined percentage. Aims to make project viability the primary lending criterion rather than collateral availability.",
+      "features": "Covers fund-based and non-fund-based credit facilities; Hybrid Security product for partial collateral cases; guarantee cover of 50/75/80/85% depending on category of borrower and loan size; pari-passu charge over primary and collateral security in hybrid cases.",
+      "coverage": "Guarantee cover of 50%, 75%, 80%, or 85% of the credit facility depending on borrower category, gender, region, and loan amount.",
+      "guarantee": "Yes - the Trust guarantees the lending institution against default by the MSE borrower.",
+      "guarantee_coverage": "50% to 85% of the credit facility amount, varying by category of borrower (general/women/NER/Aspirational District/SC-ST etc.), loan size, and whether the facility is collateral-free or hybrid.",
+      "application_process": [
+        "Eligible Lending Institutions (MLIs) enter into an agreement with the Trust (CGTMSE).",
+        "MLIs extend eligible credit facilities to eligible borrowers (MSEs).",
+        "MLIs apply for guarantee cover anytime during the tenure of the loan.",
+        "The application must meet conditions: credit facility not restructured/remained in SMA2 status in the last 1 year from application date.",
+        "The Trust reserves the discretion to accept or reject any proposal referred by the lending institution."
+      ],
+      "procedure": "Borrower applies for a loan directly with an MLI (bank/NBFC); MLI assesses project viability under collateral-free norms; upon sanction, MLI applies to CGTMSE for guarantee cover and pays the requisite guarantee fee; the borrower is not directly involved with CGTMSE.",
+      "documents_required": "Standard bank loan documents (KYC, project report/business plan, financial statements) as required by the lending institution; no separate documentation submitted by borrower to CGTMSE.",
+      "scope": "Pan-India, applicable through all eligible Member Lending Institutions.",
+      "other_benefits": "Reduces dependency on collateral for first-generation entrepreneurs; encourages composite credit (term loan + working capital from a single agency).",
+      "official_link": "https://www.cgtmse.in/Home"
+    },
+    {
+      "scheme_name": "A Scheme for Promotion of Innovation, Rural Industries and Entrepreneurship (ASPIRE)",
+      "full_name": "A Scheme for Promotion of Innovation, Rural Industries and Entrepreneurship",
+      "level": "Central",
+      "description": "A scheme to set up a network of Livelihood Business Incubators (LBIs), predominantly in rural and underserved areas, to promote innovation, generate employment via formal micro-enterprise creation in the agro-rural sector, and provide skilled human capital to nearby industrial clusters.",
+      "sector": ["Agro-rural sector", "Rural industries", "Innovation and incubation"],
+      "target_group": ["Unemployed youth", "Self-employed/wage earners seeking upskilling", "Rural entrepreneurs", "Government and private agencies setting up incubators"],
+      "eligibility": {
+        "minimum_age": "",
+        "business_type": "Government agencies and private agencies establishing Livelihood Business Incubators (LBIs); agro-rural sector micro-enterprises",
+        "location": "Predominantly rural and underserved areas",
+        "other_conditions": "Applicant agencies must demonstrate capability to run incubation and skill development programmes in the agro-rural sector."
+      },
+      "benefits": {
+        "loan_amount": "",
+        "subsidy": "Maximum of ₹1 crore to Government agencies and ₹75 lakh to Private agencies for procuring plant and machinery. Maximum of ₹1 crore to Government and Private agencies as operational expenditure support towards manpower cost, running incubation and skill development programmes, etc.",
+        "other_benefits": "Generates employment by facilitating formal, scalable micro-enterprise creation in agro-rural sector; skills/up-skills/re-skills unemployed and self-employed/wage earners in new technologies."
+      },
+      "objectives": "Set up a network of Livelihood Business Incubators (LBIs) to promote innovation and accelerate entrepreneurship; generate employment via formal micro-enterprise creation in agro-rural sector; skill/up-skill/re-skill unemployed and self-employed/wage earners; provide skilled human capital to industrial clusters and strengthen MSME competitiveness.",
+      "features": "Network of Livelihood Business Incubators (LBIs) in rural/underserved areas; funding split between plant & machinery procurement and operational expenditure.",
+      "coverage": "Plant & machinery funding up to ₹1 crore (govt) / ₹75 lakh (private); operational expenditure support up to ₹1 crore.",
+      "guarantee": "",
+      "guarantee_coverage": "",
+      "application_process": ["Apply through the ASPIRE scheme portal (aspire.msme.gov.in)"],
+      "procedure": "Agencies (government or private) apply online for incubator establishment support; approval and disbursal through Ministry of MSME.",
+      "documents_required": "Project proposal, agency registration documents, plan for incubation/skill development programme.",
+      "scope": "Pan-India, with focus on rural and underserved regions.",
+      "other_benefits": "Reduces rural-to-urban migration by creating local employment; builds skilled workforce for nearby industrial clusters.",
+      "official_link": "https://aspire.msme.gov.in/ASPIRE/AFHome.aspx"
+    },
+    {
+      "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP)",
+      "full_name": "Prime Minister Employment Generation Programme",
+      "level": "Central",
+      "description": "A credit-linked subsidy scheme implemented by the Khadi and Village Industries Commission (KVIC) as the national nodal agency (with State KVIC Directorates, KVIBs, DICs, and banks at state/district level) to generate self-employment by setting up new micro-enterprises in the non-farm sector across rural and urban India. It merges the earlier PMRY and REGP schemes.",
+      "sector": ["Manufacturing", "Service/Business/Trading sector", "Non-farm rural and urban micro-enterprises"],
+      "target_group": ["Unemployed youth", "Traditional artisans", "First-time entrepreneurs", "Self-Help Groups", "Charitable trusts", "Cooperative societies", "Societies registered under Societies Registration Act, 1860"],
+      "eligibility": {
+        "minimum_age": "18 years",
+        "business_type": "New micro-enterprises (manufacturing or service/business); existing units availing 2nd loan for upgradation under PMEGP/REGP/MUDRA are also eligible under specific conditions",
+        "location": "Rural and urban areas across India",
+        "other_conditions": "Applicant must have passed at least 8th standard for manufacturing projects above ₹10 lakh or service projects above ₹5 lakh. No income limit. Existing units that have already availed subsidy under another government scheme are not eligible (for first loan). Only one member per family can avail benefit under PMEGP (family = individual and spouse)."
+      },
+      "benefits": {
+        "loan_amount": "Maximum project cost ₹50 lakh for manufacturing units and ₹20 lakh for service/business units. Bank sanctions 90% of project cost for General Category and 95% for Special Category beneficiaries.",
+        "subsidy": "Margin money (subsidy) of 15% to 35% of the project cost, depending on category and location: General category 15% (urban) / 25% (rural); Special category (SC/ST/OBC/minorities/women/ex-servicemen/differently abled/NER/hill-border areas) 25% (urban) / 35% (rural). Beneficiary contributes 5-10% of project cost.",
+        "other_benefits": "Subsidy is non-repayable if unit operates successfully through the 3-year lock-in period; most PMEGP loans are covered under CGTMSE reducing/eliminating collateral; collateral-free for loans up to ₹10 lakh per RBI guidelines."
+      },
+      "objectives": "Create employment opportunities in rural and urban India via new self-employment micro-enterprises; bring together dispersed traditional artisans and unemployed youth for self-employment; reduce rural-to-urban migration; increase wage-earning capacity of artisans.",
+      "features": "Credit-linked subsidy (margin money locked for 3 years in linked savings account); second loan available for upgradation of existing PMEGP/REGP/MUDRA units (up to ₹1 crore for manufacturing upgradation, ₹25 lakh for service sector upgradation); mandatory 15-day Entrepreneurship Development Programme (EDP), now available online via Udyami app/udyami.org.in.",
+      "coverage": "Up to ₹50 lakh (manufacturing) / ₹20 lakh (service) project cost; ₹4,500 crore budget allocation for FY2026-27.",
+      "guarantee": "Most loans covered under CGTMSE; no collateral required for loans up to ₹10 lakh as per RBI directive.",
+      "guarantee_coverage": "Collateral-free up to ₹10 lakh; CGTMSE coverage beyond that subject to bank policy.",
+      "application_process": [
+        "Apply online via the PMEGP e-Portal",
+        "Submit Detailed Project Report (DPR)/business plan",
+        "Application reviewed by Implementing Agency (KVIC/KVIB/DIC) and forwarded to bank",
+        "Bank sanctions loan; KVIC releases margin money subsidy",
+        "Complete mandatory EDP training (can be done online)"
+      ],
+      "procedure": "Online application through PMEGP portal with DPR; appraisal by Implementing Agency using KVIC scoring model; bank loan sanction; margin money locked for 3 years then adjusted/released.",
+      "documents_required": "Application form with passport-size photo, Detailed Project Report/business plan, identity proof (Aadhaar/PAN), address proof, 8th standard pass certificate (for relevant project sizes), special category certificate (if applicable), EDP training eligibility certificate.",
+      "scope": "Pan-India, implemented at state level via KVIC Directorates, KVIBs, and DICs.",
+      "other_benefits": "Interest rates 11-12% per annum, in line with MSE sector lending; 6-month moratorium typically offered; loan repayment tenure 3-7 years.",
+      "official_link": "https://my.msme.gov.in/mymsme/Scheme.aspx"
+    },
+    {
+      "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
+      "full_name": "Pradhan Mantri Mudra Yojana",
+      "level": "Central",
+      "description": "A flagship Government of India scheme launched on 8 April 2015 providing collateral-free credit up to ₹20 lakh to non-corporate, non-farm micro and small enterprises through Member Lending Institutions, under the mission of 'funding the unfunded'.",
+      "sector": ["Manufacturing", "Trading", "Services", "Agri-allied activities (poultry, dairy, beekeeping, etc.)"],
+      "target_group": ["Non-corporate, non-farm micro and small enterprises", "Street vendors", "Small shopkeepers", "First-generation entrepreneurs", "Women entrepreneurs"],
+      "eligibility": {
+        "minimum_age": "18 years (upper limit typically 60-70 years depending on lender)",
+        "business_type": "Non-corporate, non-farm income-generating micro/small enterprise (proprietorship, partnership, or other entity engaged in manufacturing, processing, trading, or services)",
+        "location": "Pan-India",
+        "other_conditions": "Credit score not strictly mandatory, though lenders may assess repayment capacity; multiple loans permitted for different business purposes subject to lender assessment; no specific subsidy attached to the core scheme, though state-level convergence is possible."
+      },
+      "benefits": {
+        "loan_amount": "Four categories: Shishu (up to ₹50,000), Kishore (₹50,001 to ₹5 lakh), Tarun (₹5,00,001 to ₹10 lakh), Tarun Plus (₹10,00,001 to ₹20 lakh - introduced via Union Budget 2024-25, effective 24 October 2024, available only to entrepreneurs who have successfully repaid a previous Tarun loan).",
+        "subsidy": "No direct subsidy; market-linked interest rates as declared by Member Lending Institutions per RBI guidelines.",
+        "other_benefits": "Zero processing fees for Shishu loans (up to ₹50,000) waived by most banks; MUDRA Card (RuPay debit card) for working capital access; CGFMU (Credit Guarantee Fund for Micro Units) backing reduces need for collateral even at Tarun Plus level."
+      },
+      "objectives": "Provide easy and affordable collateral-free credit to small entrepreneurs, street vendors, and micro-business owners who lack access to formal institutional credit; bridge the credit gap for growing micro-enterprises.",
+      "features": "Four loan tiers reflecting business growth stage; no collateral or third-party guarantee required; available through Scheduled Commercial Banks, RRBs, Small Finance Banks, NBFCs, and MFIs.",
+      "coverage": "Loan limit raised from ₹10 lakh to ₹20 lakh in Union Budget 2024-25.",
+      "guarantee": "Backed by Credit Guarantee Fund for Micro Units (CGFMU), established 2016.",
+      "guarantee_coverage": "Collateral-free for all four categories including the new Tarun Plus tier.",
+      "application_process": [
+        "Apply via JanSamarth portal (jansamarth.in) or UdyamiMitra portal (udyamimitra.in)",
+        "Check eligibility under Business Activity Loan category",
+        "Register with mobile number, OTP verification",
+        "Complete application with personal, business, and financial details",
+        "Select lender and compare offers",
+        "Receive in-principle digital approval, then final disbursal"
+      ],
+      "procedure": "Online application via JanSamarth/UdyamiMitra or direct application at participating bank branch; minimal documentation for Shishu category; project report required for Kishore/Tarun/Tarun Plus.",
+      "documents_required": "Identity proof (Aadhaar/PAN/Voter ID), address proof, business proof (Udyam Registration/GST/trade license), 6 months' bank statements, ITR (mandatory for Tarun and Tarun Plus), project report (for Kishore/Tarun/Tarun Plus), passport-size photos.",
+      "scope": "Pan-India, over 200+ lending institutions participating.",
+      "other_benefits": "Over 52.37 crore loans worth ₹33.65 lakh crore sanctioned in 10 years of operation (as of FY2025-26); nearly 68% of accounts belong to women entrepreneurs; over 50% beneficiaries from SC/ST/OBC communities.",
+      "official_link": "https://www.mudra.org.in"
+    },
+    {
+      "scheme_name": "Credit Linked Capital Subsidy Scheme (CLCSS)",
+      "full_name": "Credit Linked Capital Subsidy Scheme for Technology Upgradation",
+      "level": "Central",
+      "description": "A scheme operated by the Ministry of MSME providing upfront capital subsidy to MSEs (including tiny, khadi, village and coir industrial units) on institutional finance availed for technology upgradation/modernisation of plant and machinery and production processes, in specified sub-sectors/products.",
+      "sector": ["Manufacturing (51 approved sub-sectors/products)", "Khadi and Village Industries", "Coir industry"],
+      "target_group": ["Existing MSE units upgrading technology", "New MSE units adopting state-of-the-art technology", "Sole proprietorships, partnerships, cooperative societies, private/public limited companies in the SSI/MSE sector"],
+      "eligibility": {
+        "minimum_age": "",
+        "business_type": "Existing and new enterprises with MSE status; constitution may be sole proprietorship, partnership, cooperative/society, private limited/LLP company",
+        "location": "Pan-India, with additional relaxations for North-East Region, Hill States (J&K, Himachal Pradesh, Uttarakhand), Island territories, and Aspirational/LWE districts",
+        "other_conditions": "Term loan must be sanctioned by an eligible Primary Lending Institution (PLI) on or after September 29, 2005. Replacement of existing equipment/technology with the same technology does not qualify. Use of second-hand machinery is not eligible. Beneficiary must remain in commercial production for at least 3 years. Cannot avail any other Central/State/UT subsidy for the same technology upgradation (except National Equity Fund Scheme cases and NER units)."
+      },
+      "benefits": {
+        "loan_amount": "Maximum eligible loan amount for subsidy calculation: ₹1 crore (₹100 lakh).",
+        "subsidy": "15% capital subsidy on institutional finance for eligible plant & machinery, with maximum subsidy of ₹15 lakh. An additional 10% subsidy (total 25%) is available for SC/ST entrepreneurs and units in select North-East/hilly districts under the Special CLCSS (SCLCSS).",
+        "other_benefits": "Covers acquisition of in-house testing/quality control facilities; covers improved packaging, anti-pollution, and energy conservation measures."
+      },
+      "objectives": "Facilitate technology upgradation of MSEs by providing upfront capital subsidy on institutional finance; upgrade plant and machinery with state-of-the-art or near state-of-the-art technology; improve productivity, product quality, and reduce production costs to enhance competitiveness.",
+      "features": "Demand-driven scheme; subsidy disbursed via 12 nodal banks/agencies including SIDBI and NABARD; covers both expansion and modernisation of existing capacity.",
+      "coverage": "15% of eligible investment in plant and machinery, up to ₹15 lakh subsidy ceiling (loan ceiling ₹1 crore).",
+      "guarantee": "",
+      "guarantee_coverage": "",
+      "application_process": [
+        "Apply online through a Primary Lending Institution (PLI) from where term loan is availed",
+        "PLI uploads application via Online Application and Tracking System to the Nodal Agency",
+        "Nodal Agency forwards to Office of DC (MSME)",
+        "Competent Authority approves subject to fund availability",
+        "Funds released to Nodal Agency, then to PLI, then credited to MSE loan account"
+      ],
+      "procedure": "Loan-linked subsidy claim filed through the financing bank/PLI; subsidy released proportionate to loan disbursement on pro-rata basis with each loan instalment.",
+      "documents_required": "Loan sanction letter, technical project report/technology upgradation proposal, machinery purchase invoices/quotations, MSE registration/Udyam certificate.",
+      "scope": "Pan-India, applicable to 51+ approved sub-sectors/products as notified by Government of India.",
+      "other_benefits": "Industries that upgrade from small to medium scale on account of additional loans remain eligible for CLCSS assistance.",
+      "official_link": "https://clcss.dcmsme.gov.in/"
+    },
+    {
+      "scheme_name": "MSME Sustainable (ZED) Certification Scheme",
+      "full_name": "Zero Defect Zero Effect Certification Scheme",
+      "level": "Central",
+      "description": "A scheme launched by the Ministry of MSME and implemented through the Quality Council of India (QCI) to enhance MSME competitiveness through assessment, guidance, handholding, and technological intervention, promoting manufacturing of quality products with minimal negative environmental impact across three certification levels: Bronze, Silver, and Gold.",
+      "sector": ["Manufacturing", "Production-oriented MSMEs"],
+      "target_group": ["All MSMEs registered under Udyam Registration portal, manufacturing/production sector"],
+      "eligibility": {
+        "minimum_age": "",
+        "business_type": "Any Micro, Small, or Medium Enterprise with valid Udyam Registration, engaged in manufacturing/production activities",
+        "location": "Pan-India",
+        "other_conditions": "Must take the 'ZED Pledge' before applying for any certification level. Each unit (under one Udyam Registration) must apply separately to avail subsidy/benefits."
+      },
+      "benefits": {
+        "loan_amount": "",
+        "subsidy": "Certification cost: Bronze ₹10,000, Silver ₹40,000, Gold ₹90,000. Subsidy on certification cost: Micro 80%, Small 60%, Medium 50%. Additional 10% subsidy for Women/SC/ST-owned MSMEs or units in NER/Himalayan/LWE/Island/aspirational districts. Additional 5% subsidy for MSMEs also part of SFURTI or MSE-CDP. Joining Reward of ₹10,000 (makes Bronze certification free if availed).",
+        "other_benefits": "Financial assistance up to 75% of testing/quality/product certification cost (max ₹50,000); handholding/consultancy support up to ₹2,00,000; support for technology upgradation for Zero Effect solutions up to ₹3,00,000 (figures vary by source - treat as indicative, verify on portal); reimbursement up to ₹50,000 for ISO/BIS/CE certifications and up to ₹1 lakh for energy/environmental certifications; priority in government tenders."
+      },
+      "objectives": "Encourage and enable MSMEs to manufacture quality products using the latest technology and constantly upgrade processes for high quality, high productivity, with least environmental effect; increase public awareness of demand for Zero Defect Zero Effect products; assist government in policy decisions and investment prioritisation.",
+      "features": "Three progressive certification levels - Bronze (5 parameters, entry-level, desktop review), Silver (14 parameters, on-site assessment), Gold (20 parameters, highest tier for export-readiness); QCI-empanelled consultants for handholding; integration with MSME KAWACH (WASH standard certification).",
+      "coverage": "Scheme validity extended till March 31, 2026 (subject to further extension); free certification for women-owned units under some provisions.",
+      "guarantee": "",
+      "guarantee_coverage": "",
+      "application_process": [
+        "Visit ZED portal (zed.msme.gov.in)",
+        "Register with Udyam Registration Number, PAN, GST details",
+        "Take the ZED Pledge",
+        "Select certification level (Bronze/Silver/Gold)",
+        "Complete self-assessment questionnaire on quality, efficiency, sustainability",
+        "Submit business documents and bank details for subsidy",
+        "On-site inspection for Silver/Gold levels by accredited assessors",
+        "Certificate issued based on assessor findings and recommendation"
+      ],
+      "procedure": "Online self-assessment followed by desktop review (Bronze) or on-site audit (Silver/Gold) by Accredited Assessment Agencies; non-conformities given a defined period to close before certification.",
+      "documents_required": "Udyam Registration Certificate, GST registration, PAN card, company registration documents, manufacturing process details, bank details for subsidy credit.",
+      "scope": "Pan-India, originated 2016 under Make in India initiative, revamped 2022.",
+      "other_benefits": "Enhanced market credibility and export opportunities; eligibility for subsidised loans and priority financing; alignment with India's net-zero goals.",
+      "official_link": "https://zed.msme.gov.in/"
+    },
+    {
+      "scheme_name": "Scheme of Fund for Regeneration of Traditional Industries (SFURTI)",
+      "full_name": "Scheme of Fund for Regeneration of Traditional Industries",
+      "level": "Central",
+      "description": "A flagship Ministry of MSME scheme, originally launched in 2005 and restructured in 2014, to organise traditional industries and artisans (Khadi, Coir, and other rural/village industries such as bamboo, honey, pottery, leather) into competitive, sustainable, and profitable clusters through Common Facility Centres (CFCs), skill development, and improved marketing access.",
+      "sector": ["Khadi", "Village industries", "Coir", "Bamboo", "Honey", "Traditional crafts and handicrafts"],
+      "target_group": ["Traditional artisans", "Rural entrepreneurs", "NGOs, cooperatives, Section 8 companies, producer companies, and artisan-led Special Purpose Vehicles (SPVs) as Implementing Agencies"],
+      "eligibility": {
+        "minimum_age": "",
+        "business_type": "Cluster-based; not for individual artisans. Implementing Agencies must be NGOs, cooperatives, trusts, producer companies, or Section 8 companies with a clear action plan and community engagement model.",
+        "location": "Cluster beneficiary families must be located in one or two revenue sub-divisions in a district; minimum 10% geographical distribution from North-Eastern region mandated.",
+        "other_conditions": "Regular cluster requires at least 500 beneficiary families comprising micro-enterprises/artisans, service providers, traders, and raw material suppliers. Implementing Agencies should ideally have at least 3 years of experience in cluster development or rural enterprise promotion."
+      },
+      "benefits": {
+        "loan_amount": "",
+        "subsidy": "Maximum financial assistance per project: ₹8 crore (combining Hard, Soft, and Thematic interventions) per official guidelines; commonly cited as up to ₹2.5 crore for Regular Clusters and ₹5 crore for Major Clusters (>500 artisans) in secondary sources - figures vary by cluster classification, verify current ceiling on official portal.",
+        "other_benefits": "Soft interventions: training, design, awareness, marketing support. Hard interventions: Common Facility Centres (CFCs), machinery, working capital, technology upgradation. Thematic interventions: branding, R&D, innovation, e-commerce promotion (Amazon Karigar, Flipkart Samarth linkages)."
+      },
+      "objectives": "Organise traditional industries and artisans into clusters for competitiveness and profitability; provide employment for artisans/rural entrepreneurs; support new product development, design intervention, and packaging; improve marketing infrastructure and market access (domestic and international); facilitate knowledge/skill transmission and modern technology adoption.",
+      "features": "Three intervention types (soft/hard/thematic); nodal agencies include KVIC (Khadi/Village industries) and Coir Board (Coir clusters), plus other empanelled Nodal Agencies; private sector participation allowed (minimum 50% project cost contribution excluding land cost); maximum implementation period of 3 years per project.",
+      "coverage": "Up to ₹8 crore per cluster project (per official guideline); implementation period up to 3 years.",
+      "guarantee": "",
+      "guarantee_coverage": "",
+      "application_process": [
+        "Identify a qualifying traditional industry cluster",
+        "Prepare Detailed Project Report (DPR) with objectives, budget, stakeholders, facilities plan",
+        "Form a Special Purpose Vehicle (SPV) if required - cooperative, society, or company",
+        "Submit proposal to designated Nodal Agency / State Office / KVIC",
+        "Technical Agency and Scheme Steering Committee (SSC) review and approve",
+        "Funds released in phases linked to milestones upon sanction"
+      ],
+      "procedure": "DPR submitted to Nodal Agency; State/Zonal level scrutiny; SSC approval; sanction order issued; funds released to Implementing Agency in tranches against Utilisation Certificates and progress reports.",
+      "documents_required": "Detailed Project Report (DPR), SPV registration documents (if applicable), beneficiary family list/cluster mapping, implementing agency credentials and track record.",
+      "scope": "Pan-India, with mandated minimum 10% allocation to North-Eastern region clusters.",
+      "other_benefits": "Helps preserve cultural heritage of traditional Indian crafts while creating sustainable rural employment; supports e-commerce and export linkages for artisan products.",
+      "official_link": "https://www.myscheme.gov.in/schemes/sfurti"
+    },
+    {
+      "scheme_name": "Raising and Accelerating MSME Performance (RAMP)",
+      "full_name": "Raising and Accelerating MSME Performance",
+      "level": "Central",
+      "description": "A World Bank-assisted Central Sector Scheme launched by the Ministry of MSME (Cabinet approval 30 March 2022, launched 30 June 2022) to scale up implementation capacity and outreach of existing MSME schemes, strengthen Centre-State collaboration, and support COVID-19 resilience and recovery for the MSME sector over a five-year period (FY2022-23 to FY2026-27).",
+      "sector": ["All MSME sectors - manufacturing and services", "Priority focus: renewable energy, rural & non-farm business, wholesale/retail trade, village/cottage industries, women enterprises"],
+      "target_group": ["All registered MSMEs (broad reach across 6+ crore enterprises)", "States/UTs (for Strategic Investment Plan grants)"],
+      "eligibility": {
+        "minimum_age": "",
+        "business_type": "Any registered MSME (manufacturing or services); States/UTs preparing Strategic Investment Plans (SIPs)",
+        "location": "Pan-India; implementation varies by State/UT based on their SIP",
+        "other_conditions": "Benefits often delivered indirectly through enhancement of existing MSME schemes (e.g., CGTMSE) rather than as a standalone direct-application scheme for individual MSMEs."
+      },
+      "benefits": {
+        "loan_amount": "",
+        "subsidy": "",
+        "other_benefits": "Enhances effectiveness of existing schemes including CGTMSE (credit guarantee), technology upgradation schemes, and market access programmes; grants to States/UTs for implementing projects identified in their Strategic Investment Plan (SIP); promotes greening initiatives and guarantee coverage scale-up for women-owned MSEs; addresses delayed payment issues to MSEs."
+      },
+      "objectives": "Accelerate Centre-State collaboration in MSME promotion; enhance effectiveness of existing Ministry of MSME schemes for technology upgradation; strengthen the receivables financing market for MSMEs; enhance effectiveness of CGTMSE and promote guarantees for greening initiatives and women-owned MSEs; reduce incidence of delayed payments to MSEs.",
+      "features": "Result-based funding from World Bank (USD 500 million loan component); apex National MSME Council headed by Minister for MSME; State-level Strategic Investment Plans (SIPs) for all States/UTs (except Delhi UT at certain points); Programme Management Units at national and state level.",
+      "coverage": "Total outlay ₹6,062.45 crore (USD 808 million) - ₹3,750 crore (USD 500 million) World Bank loan + ₹2,312.45 crore (USD 308 million) Government of India funding. Targets 5.5 lakh MSMEs over 5-year implementation; over 4 lakh MSMEs impacted as of the most recent reporting period.",
+      "guarantee": "Indirectly enhances CGTMSE guarantee scheme effectiveness, especially for women-owned and green MSEs.",
+      "guarantee_coverage": "",
+      "application_process": ["Not a direct-application scheme for individual MSMEs; benefits accessed via enhanced versions of existing MSME schemes and State-level programmes under the SIP framework"],
+      "procedure": "Funds flow from World Bank/GoI into Ministry's budget against Disbursement-Linked Indicators (DLIs); States submit SIPs which are appraised and funded via objective selection criteria.",
+      "documents_required": "Not applicable for individual MSME beneficiaries; States/UTs submit SIP documentation for funding.",
+      "scope": "Pan-India, with State and Union Territory level Strategic Investment Plans.",
+      "other_benefits": "Supports formalisation of MSMEs in states with lower MSME presence; builds institutional capacity for long-term, systemic MSME ecosystem improvement.",
+      "official_link": "https://ramp.msme.gov.in/ramp/about-ramp.php"
+    },
+    {
+      "scheme_name": "Stand-Up India Scheme",
+      "full_name": "Stand-Up India Scheme",
+      "level": "Central",
+      "description": "A Government of India initiative launched 5 April 2016 by the Department of Financial Services (Ministry of Finance), implemented through Scheduled Commercial Banks and monitored by SIDBI, facilitating composite bank loans between ₹10 lakh and ₹1 crore to at least one SC/ST borrower and one woman borrower per bank branch for setting up greenfield enterprises.",
+      "sector": ["Manufacturing", "Services", "Trading", "Agri-allied activities"],
+      "target_group": ["Scheduled Caste (SC) entrepreneurs", "Scheduled Tribe (ST) entrepreneurs", "Women entrepreneurs"],
+      "eligibility": {
+        "minimum_age": "18 years",
+        "business_type": "Greenfield enterprise only (first-time business venture, not expansion of existing business) in manufacturing, services, trading, or agri-allied sector",
+        "location": "Pan-India, through scheduled commercial bank branches",
+        "other_conditions": "For non-individual entities (partnership/company), at least 51% shareholding and controlling stake must be held by SC/ST and/or women entrepreneur(s). Applicant must not be in default to any bank/financial institution. Borrower must contribute minimum 10-15% of project cost; remaining may be supported via convergence with other government schemes."
+      },
+      "benefits": {
+        "loan_amount": "Composite loan (term loan + working capital) ranging from ₹10 lakh to ₹1 crore, covering up to 75-85% of project cost depending on source/policy version.",
+        "subsidy": "Margin money support up to 75% of actual expenditure subject to a maximum of ₹75,000 in some formulations; margin money of up to 15% of project cost can also be drawn from convergence with Central/State government schemes.",
+        "other_benefits": "Working capital up to ₹10 lakh disbursed as overdraft; above ₹10 lakh as cash credit limit; RuPay debit card issued for working capital access; repayment tenure up to 7 years with moratorium period (up to 18 months in some bank formulations); interest rate capped at bank's MCLR + 3% + tenor premium; SIDBI refinance window with initial corpus of ₹10,000 crore."
+      },
+      "objectives": "Promote entrepreneurship among underrepresented SC/ST and women communities; ensure each bank branch supports at least one SC/ST borrower and one woman borrower for greenfield enterprise; encourage financial inclusion and economic empowerment through formal credit access.",
+      "features": "Composite loan structure; credit guarantee via Credit Guarantee Fund Scheme for Stand-Up India Loans (CGFSIL); handholding and mentorship support through standupmitra.in portal; allows convergence with other Central/State schemes for margin money.",
+      "coverage": "₹10 lakh to ₹1 crore composite loan; repayment up to 7 years.",
+      "guarantee": "Credit Guarantee Fund Scheme for Stand-Up India Loans (CGFSIL).",
+      "guarantee_coverage": "Reduces/eliminates need for heavy collateral for SC/ST and women entrepreneurs; final security decision rests with lending bank.",
+      "application_process": [
+        "Visit official portal www.standupmitra.in",
+        "Register with location, category, and proposed business details",
+        "Fill application form with loan amount, premises, experience etc.",
+        "Submit supporting documents (KYC, business plan, financial documents)",
+        "Bank evaluates and sanctions loan",
+        "Alternatively, apply directly at a participating bank branch"
+      ],
+      "procedure": "Online registration via StandUpMitra portal or direct bank branch application; handholding support provided alongside loan processing; mentoring continues post-disbursal.",
+      "documents_required": "Identity proof (PAN/passport/driving licence), address proof, business address proof, financial documents (ITR, statement of assets/liabilities), partnership deed or MoA/AoA for non-individual entities, passport-size photographs.",
+      "scope": "Pan-India through all scheduled commercial bank branches.",
+      "other_benefits": "Mandatory bank branch-level support quota (1 SC/ST + 1 woman borrower per branch) drives systemic inclusion; promotes diversification of India's entrepreneurial base.",
+      "official_link": "https://www.standupmitra.in/"
+    }
+  ],
+  "telangana_state_schemes": [
+    {
+      "scheme_name": "TS-iPASS (Telangana State Industrial Project Approval and Self-Certification System)",
+      "full_name": "Telangana State Industrial Project Approval and Self-Certification System",
+      "level": "State (Telangana)",
+      "description": "A single-window clearance and self-certification system enacted under the TS-iPASS Act, 2014 (Act No. 3 of 2014, assented 3 December 2014, operational from 1 April 2016) to enable speedy processing of industrial clearances in Telangana at a single point, based on entrepreneur self-certification, creating an investor-friendly business environment.",
+      "sector": ["All industrial, manufacturing, and service sectors setting up operations in Telangana"],
+      "target_group": ["Entrepreneurs, business owners, and industrialists setting up new industries or expanding existing ones in Telangana"],
+      "eligibility": {
+        "minimum_age": "",
+        "business_type": "Any industry, manufacturing unit, or service business seeking statutory clearances to establish or expand operations in Telangana",
+        "location": "Telangana State",
+        "other_conditions": "Projects classified by investment size: Mega Projects (investment above a defined high threshold) receive approval via self-certification with deemed approval; standard projects receive approvals via the unified online process. If land is allotted by TSIIC or another government agency, the company must achieve financial closure within one year and commence operations within two years, or the land allotment may be revoked."
+      },
+      "benefits": {
+        "loan_amount": "",
+        "subsidy": "",
+        "other_benefits": "Time-bound clearances ranging from 1 day to a maximum of 30 days depending on approval complexity; pre-scrutiny conducted at State and District level to reduce rejection/delay; penalty provisions on departments for delayed clearances; mandatory single round of information requests from competent authorities (cannot ask for documents/info more than once); 23 departments and approximately 40 types of approvals integrated into a single online system."
+      },
+      "objectives": "Increase processing rate of applications for industrial clearances; establish an Investor Facilitation Cell as a single point of contact; create a secure, progressive, and business-friendly regulatory environment; eliminate the need for entrepreneurs to approach multiple departments separately.",
+      "features": "Online application via the TS-iPASS portal (ipass.telangana.gov.in); common application form covering multiple department approvals; self-certification mechanism with deemed approval for Mega Projects within 15 days; common enclosures eliminate repeated document submission.",
+      "coverage": "Approvals from Pollution Control Board, Factories Department, HMDA/DTCP/KUDA (building plan), TSSPDCL (power feasibility), Gram Panchayat NOC, and other statutory bodies - all processed through one platform.",
+      "guarantee": "",
+      "guarantee_coverage": "",
+      "application_process": [
+        "Register on TS-iPASS portal (New User Registration)",
+        "Choose from Entrepreneur Dashboard options: CPE (Pre-Establishment Approval), CFO (Pre-Operational Approval), or Others (Grievance/Incentive/Raw material/Help Desk)",
+        "Complete the questionnaire and common application form",
+        "Fill project details and submit department-specific questionnaires",
+        "Pay fees as stipulated by each relevant department",
+        "Download receipts/approvals after successful processing"
+      ],
+      "procedure": "Common Application Form (CAF) submitted online with self-certification, fees, and required documents; can also be submitted manually through the Nodal Agency (District Industries Centre at district level); applications reviewed by District Committees and the State-level TS-iPASS Committee.",
+      "documents_required": "Self-certification documents, project details/investment plan, land documents, relevant NOCs as applicable per department (varies by project type and category - Red/Green/Orange pollution categories etc.).",
+      "scope": "Telangana State-wide.",
+      "other_benefits": "Between January 2015 and a recent reporting period, over 8,500 projects with combined investment of approximately ₹1.4 lakh crore have been approved through TS-iPASS.",
+      "official_link": "https://ipass.telangana.gov.in/"
+    },
+    {
+      "scheme_name": "T-IDEA (Telangana State Industrial Development and Entrepreneur Advancement)",
+      "full_name": "Telangana State Industrial Development and Entrepreneur Advancement Incentive Scheme",
+      "level": "State (Telangana)",
+      "description": "The principal industrial incentive scheme of the Government of Telangana, released alongside the State Industrial Policy, offering a comprehensive package of capital subsidies, tax reimbursements, power cost reimbursements, and land-related incentives to promote Telangana as a preferred investment destination for new industrial enterprises as well as substantial expansion/diversification of existing industries.",
+      "sector": ["Manufacturing and eligible industrial sectors as defined in the Telangana Industrial Policy"],
+      "target_group": ["New industrial enterprises in Telangana", "Existing industries undertaking substantial expansion or diversification", "MSMEs (with enhanced incentive percentages compared to large industries)"],
+      "eligibility": {
+        "minimum_age": "",
+        "business_type": "New industrial enterprises and substantial expansion/diversification projects in eligible lines of activity as notified under the Telangana Industrial Policy",
+        "location": "Telangana State; differential incentives for industrial parks/estates vs. other locations",
+        "other_conditions": "Must obtain Udyam registration and requisite statutory clearances (industrial, pollution, power, etc.) typically via TS-iPASS. Enhanced incentive packages apply for SC/ST, persons with disabilities, and women entrepreneurs (delivered via the linked T-PRIDE scheme for SC/ST). Mega Projects (investment over a high threshold or employment above 1000 persons) receive tailor-made incentives in addition to standard incentives."
+      },
+      "benefits": {
+        "loan_amount": "",
+        "subsidy": "15% investment subsidy on fixed capital investment, subject to a maximum of ₹20 lakh (general category; MSME-specific figures may vary and can go up to ₹50 lakh-₹1 crore per some sources for special categories). 25% rebate on land cost (limited to ₹10 lakh) in industrial estates/parks. 25% rebate on land conversion charges for industrial use (limited to ₹10 lakh). 100% reimbursement of stamp duty for lease/sale/mortgage/hypothecation of land/shed/buildings.",
+        "other_benefits": "Fixed power cost reimbursement at ₹1.00 per unit for 5 years from commencement of commercial production. 100% reimbursement of net VAT/CST or State GST (SGST) for 5 years from commencement of commercial production. 50% subsidy up to ₹2 lakh for quality certification and patent registration support."
+      },
+      "objectives": "Promote Telangana as the best investment destination by offering incentives/benefits to eligible new industrial enterprises and substantial expansions/diversifications; reduce capital and operational costs for industries setting up in the state.",
+      "features": "Works in coordination with TS-iPASS for clearances and with TSIIC for land/infrastructure; differentiated incentive tiers for general, SC/ST (via T-PRIDE), women, and Mega Project categories.",
+      "coverage": "Investment subsidy capped at ₹20 lakh (general, per official scheme document) though figures up to ₹75 lakh-₹1 crore are cited in some secondary sources for special categories - verify current ceiling on the official Industries Department portal.",
+      "guarantee": "",
+      "guarantee_coverage": "",
+      "application_process": [
+        "Obtain Udyam registration and necessary statutory clearances via TS-iPASS",
+        "File incentive claim applications through Mee Seva centres or the Industries Department portal",
+        "Applications evaluated by District Industries Centre (DIC) or State-Level Committee based on viability, employment potential, and investment",
+        "Sanction letter issued for financial assistance upon approval",
+        "Project must commence operations within the defined period to claim incentives"
+      ],
+      "procedure": "Incentive claims filed post-commissioning of the unit, supported by proof of investment, employment generation, and commercial production commencement; processed via DIC/State-Level Committee.",
+      "documents_required": "Udyam registration certificate, industrial/pollution/power clearances, project report/business plan, financial details, proof of investment and commercial production commencement.",
+      "scope": "Telangana State-wide, administered by the Industries & Commerce Department.",
+      "other_benefits": "Dedicated MSME parks and infrastructure support through TSIIC; sector-specific incentive layers for priority industries.",
+      "official_link": "https://industries.telangana.gov.in/"
+    },
+    {
+      "scheme_name": "TS-PRIDE (Telangana State Program for Rapid Incubation of Dalit Entrepreneurs)",
+      "full_name": "Telangana State Program for Rapid Incubation of Dalit Entrepreneurs",
+      "level": "State (Telangana)",
+      "description": "A flagship Government of Telangana scheme (also referenced as T-PRIDE) working alongside T-IDEA and the broader Telangana Industrial Policy, offering enhanced financial and institutional support specifically for Scheduled Caste (Dalit) entrepreneurs to promote industrial ownership and participation in the state's economic growth.",
+      "sector": ["Manufacturing and eligible industrial sectors as defined in Telangana Industrial Policy"],
+      "target_group": ["Scheduled Caste (SC/Dalit) entrepreneurs in Telangana"],
+      "eligibility": {
+        "minimum_age": "",
+        "business_type": "New or expanding industrial enterprise majority-owned by SC/Dalit entrepreneur(s)",
+        "location": "Telangana State",
+        "other_conditions": "Enterprise should be registered under Udyam (MSME) and possess necessary statutory clearances (industrial, pollution, power, etc.). SC certificate of promoter(s) required."
+      },
+      "benefits": {
+        "loan_amount": "",
+        "subsidy": "Higher capital/investment subsidy compared to general category - cited as 35% to 50% investment subsidy (up to ₹75 lakh-₹1 crore) in some sources, and up to 40% capital subsidy with additional interest subsidy in others; 75% subsidy on land cost (subject to ceilings) for establishing industrial units; figures vary by source - verify current applicable rate with the Industries Department.",
+        "other_benefits": "Preferential allotment of plots/sheds in TSIIC Industrial Parks exclusively earmarked for Dalit entrepreneurs; 100% reimbursement (up to ₹3 lakh) of charges for quality certifications and patent registrations; 100% tax reimbursement for 5 years for eligible MSMEs (per some sources); priority land allotment and power rebate."
+      },
+      "objectives": "Promote entrepreneurship among Dalit youth through targeted financial and institutional support; facilitate industrial ownership and participation of Dalits in Telangana's economic growth; provide equal opportunities for SC entrepreneurs in state-supported industrial and procurement programmes; reduce socio-economic disparities through self-employment and enterprise creation.",
+      "features": "Works in close coordination with the Telangana Industrial Policy, T-IDEA incentive scheme, and TSIIC; preferential plot/shed allotment in dedicated industrial parks; additional 5% subsidy for women SC/ST entrepreneurs or units in scheduled areas.",
+      "coverage": "Enhanced incentive tier layered on top of standard T-IDEA benefits for SC/Dalit entrepreneurs.",
+      "guarantee": "",
+      "guarantee_coverage": "",
+      "application_process": [
+        "Obtain Udyam registration and statutory clearances (industrial license, land allotment approval, etc.)",
+        "Apply through the Telangana State Industries Department portal or TS-iPASS",
+        "Attach supporting documents: SC certificate, project report, business plan, financial details",
+        "Application evaluated by District Industries Centre (DIC) or State-Level Committee based on viability, employment potential, investment",
+        "Sanction letter issued for financial assistance upon approval",
+        "Project must commence operations within the defined period to claim incentives"
+      ],
+      "procedure": "Similar to T-IDEA claims process but routed with SC-category documentation for enhanced incentive tier; evaluated by DIC/State-Level Committee.",
+      "documents_required": "SC caste certificate, Udyam registration, project report/business plan, financial details, statutory clearances (industrial license, land allotment approval).",
+      "scope": "Telangana State-wide, administered by the Industries & Commerce Department in coordination with TSIIC.",
+      "other_benefits": "Part of Telangana's broader social justice and equitable development policy framework alongside benefits for ST, BC, minority, and women entrepreneurs.",
+      "official_link": "https://industries.telangana.gov.in/"
+    },
+    {
+      "scheme_name": "WE Hub (Women Entrepreneurs Hub)",
+      "full_name": "WE Hub - Telangana Women Entrepreneurs Hub",
+      "level": "State (Telangana)",
+      "description": "India's first state-led incubator exclusively for women entrepreneurs, managed by the Department of Information Technology, Electronics & Communications (ITE&C), Government of Telangana. Initiated in response to the Global Entrepreneurship Summit (GES) 2017 (theme: 'Women First, Prosperity for All') and operational from March 2018, WE Hub creates an enabling ecosystem for women-led enterprises across rural and urban Telangana through incubation, mentoring, funding access, and policy support.",
+      "sector": ["Sector-agnostic - technology, rural enterprises, SMEs, and innovation-driven businesses led by women"],
+      "target_group": ["Women entrepreneurs at any stage of their entrepreneurial journey, irrespective of sector, education, financial, or demographic background"],
+      "eligibility": {
+        "minimum_age": "",
+        "business_type": "Any woman-led or majority woman-owned (typically over 50%) enterprise, idea-stage to scaling startup, rural SME to urban tech startup",
+        "location": "Telangana, with national and pan-India outreach for some incubation cohorts",
+        "other_conditions": "Specific programme tracks have their own eligibility - e.g., WE Alpha targets 18-24 age group student entrepreneurs; Rural Incubation targets existing rural women-led enterprises; Startup Incubation targets Metro/Tier-1 region women entrepreneurs ready to scale and raise investment."
+      },
+      "benefits": {
+        "loan_amount": "",
+        "subsidy": "",
+        "other_benefits": "Access to funding through equity, grants, and debt channels facilitated by WE Hub; selected as an incubator under the Startup India Seed Fund Scheme (₹5 crore sanctioned to WE Hub, ₹4.5 crore further disbursed to startups in initial rounds); mentorship and management courses; compliance services for registration, accounts, loan applications, IPR, licensing; preferential procurement consideration for WE Hub-incubated startups in government processes; networking with VCs, corporates, and fellow women entrepreneurs."
+      },
+      "objectives": "Counter biases and stereotypes limiting women's entrepreneurial potential; create a supportive community connecting women entrepreneurs with VCs, corporates, and mentors; enable access to technical, financial, governmental, and policy support required to start, scale, sustain, and accelerate women-led businesses.",
+      "features": "Multiple programme verticals: Startup Incubation (Metro/Tier-1, investment-ready), SME vertical (Tier-2/Tier-3 Telangana), Rural Incubation (strengthening local supply chains), WE Alpha (student entrepreneurs 18-24), partnerships with FICCI FLO, Australian Consulate (UPsurge programme), and GIZ ('Project Her & Now' for Tier-2/3 regions).",
+      "coverage": "Programme-dependent; e.g., UPsurge supports 120 aspiring women entrepreneurs across 4 cohorts of 12 weeks each; Incubation Cohort 3 selected 25-26 startups from six cities.",
+      "guarantee": "",
+      "guarantee_coverage": "",
+      "application_process": [
+        "Register/apply via WE Hub official portal (wehub.telangana.gov.in)",
+        "Select relevant programme track (Startup Incubation, SME, Rural Incubation, Student programmes)",
+        "Submit business idea/plan and relevant documentation as per programme requirements",
+        "Selection through cohort-based evaluation process",
+        "Onboarding into incubation, mentoring, and funding-access programmes"
+      ],
+      "procedure": "Cohort-based selection process; varies by specific programme (e.g., pitch-based selection for Startup Incubation, application-based for SME/Rural tracks).",
+      "documents_required": "Business plan/pitch deck, identity/business registration proof (Udyam, if applicable), programme-specific application forms.",
+      "scope": "Primarily Telangana-focused, with several programmes open to women entrepreneurs across India (e.g., WEnture in collaboration with i-Hub Gujarat).",
+      "other_benefits": "Acts as a bridge to additional schemes such as the central Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE - collateral-free coverage up to ₹1 crore for women-owned units in convergence), and other women-focused central credit schemes.",
+      "official_link": "https://wehub.telangana.gov.in/"
+    }
+  ]
+}
