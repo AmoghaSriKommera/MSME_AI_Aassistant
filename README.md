@@ -1,8 +1,4 @@
 # MSME AI Assistant
-
-> **Note:** This is a starter README generated from the repository structure and information provided. It is intended as a comprehensive project README template.
-
-# MSME AI Assistant
 An enterprise-grade, multi-agent AI platform that helps MSMEs discover government schemes, check eligibility, compare schemes, understand documentation, and receive application guidance using Retrieval-Augmented Generation (RAG), LangGraph orchestration, FastAPI, and a modern React frontend.
 
 ---
